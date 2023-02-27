@@ -5,7 +5,7 @@ Extract the contents of the folder.
 
 Open Chrome browser, click on three dots in top right corner, and choose "More Tools -> Extensions".
 The chrome://extensions page should open up.
-Slide the slider on the right upper corner for "Developer Mode" to ON.
+Slide the switch on the right upper corner for "Developer Mode" to ON.
 When you do this, you will see three buttons appear on top. Click "Load unpacked".
 Choose the folder for the files you extracted earlier and click Select.
 
