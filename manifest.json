@@ -8,7 +8,7 @@
     "content_scripts": [{
       "css": ["styles.css"],
       "js": ["content.js"],
-      "matches": ["https://www.trainerroad.com/app/cycling/workouts/*"]
+      "matches": ["https://www.trainerroad.com/app/cycling/workouts*"]
     }]
    
   }
