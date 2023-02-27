@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+   
+    "name": "TrainerRoad Workout Exporter for Zwift",
+    "version": "1.0.0",
+    "description": "Provides support for exporting workouts into .zwo for use in Zwift",
+   
+    "content_scripts": [{
+      "css": ["styles.css"],
+      "js": ["content.js"],
+      "matches": ["https://www.trainerroad.com/app/cycling/workouts/*"]
+    }]
+   
+  }
