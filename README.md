@@ -9,4 +9,4 @@ Slide the switch on the right upper corner for "Developer Mode" to ON.
 When you do this, you will see three buttons appear on top. Click "Load unpacked".
 Browse to the extracted folder and click Select (should be the 'Trainer-Zwift-Ext' folder).
 
-And voila! Your extension is installed. Go to www.trainerroad.com and you will see 'Export' buttons on the workouts list page and details pages!
+And voila! Your extension is installed. Go to www.trainerroad.com, login to your account, and you will see 'Export' buttons on the workouts list page and details pages!
